@@ -30,7 +30,7 @@ Before tech, I built a career at the intersection of law, writing, and open sour
 
 ## ✍️ Writing Life
 
-Writing isn't just my job — it's how I make sense of things.
+Writing is how I make sense of things, and from time to time, I make those things public.
 
 - **Fiction & Creative Nonfiction** — some of it published at [public.gwynnemonahan.com](http://public.gwynnemonahan.com)
 - **Blog** — I write about [creative process, AI, life, and other things](http://www.gwynnemonahan.com)
