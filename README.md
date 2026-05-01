@@ -1,15 +1,48 @@
-- 👋 Hi, I’m @gwynnemonahan
-- 🌱 I’m currently a Senior Technical Writer at Red Hat assinged to Red Hat Network Observability Operator, and Red Hat Power Monitoring Operator. I have previously worked on Red Hat Open Shift ServiceMesh, and Red Hat Developer Hub.
-- ⏲️ Before Red Hat, I was a technical writer at a finance and banking company, a cyber security company, and other SaaS companies.
-- ◀️ In a previous professional life, I was:
-  _ Managing editor of the American Bar Association award-winning Legal Technology Resource Center blog: Law Technology Today.
-  _ Managing editor of the award-winning Small Firm Innovation blog
-  _ Marketing copywriter
-  _ Open source consultant for solo and small law firms
-- ✍️ I write fiction, and creative nonfiction, some of which is published here: [public.gwynnemonahan.com](http://public.gwynnemonahan.com).
-- ✍️ My blog is where I write about [creative process, AI, life, and other things](http://www.gwynnemonahan.com).
-- ✍️ I have written a memoir, and have dusted it off. While I use AI to help parse, analyze, and identify elements, the writing remains mine. I have sent it some development editors, and am searching for other human readers. 
-- 📮 🤝 Find and [connect with me on LinkedIn](http://www.linkedin.com/in/gwynnemonahan).
+# Hi, I'm Gwynne Monahan 👋
+
+**Senior Technical Writer · Fiction & Memoir Author · Former Legal Tech Editor**
+
+---
+
+## 🛠️ What I Do Now
+
+I'm a **Senior Technical Writer at Red Hat**, currently crafting strategy, information architecture, and user-friendly docs for:
+
+- **Red Hat Network Observability Operator**
+
+Previously, I've did the same for **Red Hat OpenShift Service Mesh**, and **Red Hat Power Monitoring Operator**.
+
+Before Red Hat, I worked as a technical writer across finance & banking, cybersecurity, and various SaaS companies.
+
+---
+
+## 📖 A Previous Professional Life
+
+Before tech, I built a career at the intersection of law, writing, and open source:
+
+- **Managing Editor** — [*Law Technology Today*](https://www.lawtechnologytoday.org/), the American Bar Association award-winning Legal Technology Resource Center blog
+- **Managing Editor** — the award-winning *Small Firm Innovation* blog
+- **Marketing Copywriter**
+- **Community Manager**
+- **Open Source Consultant** for solo practioniers and small law firms
+
+---
+
+## ✍️ Writing Life
+
+Writing isn't just my job — it's how I make sense of things.
+
+- **Fiction & Creative Nonfiction** — some of it published at [public.gwynnemonahan.com](http://public.gwynnemonahan.com)
+- **Blog** — I write about [creative process, AI, life, and other things](http://www.gwynnemonahan.com)
+- **Memoir** — I've written a memoir and recently dusted it off. I use AI to help parse, analyze, and surface patterns, but the writing is mine. It's in the hands of developmental editors, and workshop members as I work on the next iteration.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gwynnemonahan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwynnemonahan)
+[![Website](https://img.shields.io/badge/Blog-gwynnemonahan.com-black?style=flat&logo=ghost&logoColor=white)](http://www.gwynnemonahan.com)
+[![Public Creative Work](https://img.shields.io/badge/Published%20Work-public.gwynnemonahan.com-6B46C1?style=flat)](http://public.gwynnemonahan.com)
 
 <!---
 gwynnemonahan/gwynnemonahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
