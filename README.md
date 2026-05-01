@@ -16,7 +16,7 @@ Before Red Hat, I worked as a technical writer across finance & banking, cyberse
 
 ---
 
-## 📖 A Previous Professional Life
+## 📖 Previous Professional Lives
 
 Before tech, I built a career at the intersection of law, writing, and open source:
 
