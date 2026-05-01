@@ -1,6 +1,6 @@
 # Hi, I'm Gwynne Monahan 👋
 
-**Senior Technical Writer · Fiction & Memoir Author · Former Legal Tech Editor**
+**Storyteller** · **Senior Technical Writer · Former Legal Tech Editor**
 
 ---
 
