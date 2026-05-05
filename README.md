@@ -8,7 +8,7 @@
 
 I'm a **Senior Technical Writer at Red Hat**, currently crafting strategy, information architecture, and user-friendly docs for:
 
-- **[Red Hat Network Observability Operator]**(https://docs.redhat.com/en/documentation/openshift_container_platform/4.21/html/network_observability/index)
+- **[Red Hat Network Observability Operator](https://docs.redhat.com/en/documentation/openshift_container_platform/4.21/html/network_observability/index)**
 
 Previously, I've did the same for **Red Hat OpenShift Service Mesh**, and **Red Hat Power Monitoring Operator**.
 
