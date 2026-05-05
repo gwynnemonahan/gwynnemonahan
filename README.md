@@ -34,7 +34,7 @@ Writing is how I make sense of things, and from time to time, I make those thing
 
 - **Fiction & Creative Nonfiction** — some of it published at [public.gwynnemonahan.com](http://public.gwynnemonahan.com)
 - **Blog** — I write about [creative process, AI, life, and other things](http://www.gwynnemonahan.com)
-- **Memoir** — I've written a memoir and recently dusted it off. I use AI to help parse, analyze, and surface patterns, but the writing is mine. It's in the hands of developmental editors, and workshop members as I work on the next iteration.
+- **Memoir** — I've written a memoir and recently dusted it off. It's in the hands of developmental editors, and workshop members as I work on the next iteration.
 
 ---
 
