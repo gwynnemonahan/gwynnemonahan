@@ -20,7 +20,7 @@ Before Red Hat, I worked as a technical writer across finance & banking, cyberse
 
 Before tech, I built a career at the intersection of law, writing, and open source:
 
-- **Managing Editor** — [*Law Technology Today*](https://www.lawtechnologytoday.org/), the American Bar Association award-winning Legal Technology Resource Center blog
+- **Managing Editor** — Law Technology Today, the American Bar Association award-winning Legal Technology Resource Center blog
 - **Managing Editor** — the award-winning (now defunct) *Small Firm Innovation* blog
 - **Marketing Copywriter**
 - **Community Manager**
